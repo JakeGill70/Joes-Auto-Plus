@@ -1,0 +1,16 @@
+D:\C++ Projects\JoesAutoPlus\JoesAutoPlus\bin\Debug\JoesAutoPlus.exe.config
+D:\C# projects\JoesAutoPlus\JoesAutoPlus\bin\Debug\JoesAutoPlus.exe.config
+D:\C# projects\JoesAutoPlus\JoesAutoPlus\bin\Debug\JoesAutoPlus.exe
+D:\C# projects\JoesAutoPlus\JoesAutoPlus\bin\Debug\JoesAutoPlus.pdb
+D:\C# projects\JoesAutoPlus\JoesAutoPlus\obj\Debug\JoesAutoPlus.csprojResolveAssemblyReference.cache
+D:\C# projects\JoesAutoPlus\JoesAutoPlus\obj\Debug\JoesAutoPlus.DatabaseMenu.resources
+D:\C# projects\JoesAutoPlus\JoesAutoPlus\obj\Debug\JoesAutoPlus.mainForm.resources
+D:\C# projects\JoesAutoPlus\JoesAutoPlus\obj\Debug\JoesAutoPlus.OptionsMenu.resources
+D:\C# projects\JoesAutoPlus\JoesAutoPlus\obj\Debug\JoesAutoPlus.Properties.Resources.resources
+D:\C# projects\JoesAutoPlus\JoesAutoPlus\obj\Debug\JoesAutoPlus.csproj.GenerateResource.Cache
+D:\C# projects\JoesAutoPlus\JoesAutoPlus\obj\Debug\JoesAutoPlus.exe
+D:\C# projects\JoesAutoPlus\JoesAutoPlus\obj\Debug\JoesAutoPlus.pdb
+D:\C# projects\JoesAutoPlus\JoesAutoPlus\bin\Debug\JoesAutoPlus.exe.manifest
+D:\C# projects\JoesAutoPlus\JoesAutoPlus\bin\Debug\JoesAutoPlus.application
+D:\C# projects\JoesAutoPlus\JoesAutoPlus\obj\Debug\JoesAutoPlus.exe.manifest
+D:\C# projects\JoesAutoPlus\JoesAutoPlus\obj\Debug\JoesAutoPlus.application
